@@ -1,1 +1,2 @@
-https://github.com/miabrock/MA1805-interactive-project.git
+
+https://miabrock.github.io/MA1805-interactive-project/
