@@ -16,8 +16,3 @@ function draw() {
 
   i = i+1;
 }
-
-
-
-
-
