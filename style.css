@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
+
+body {
+  font-family: 'Cinzel Decorative', cursive, Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(85, 21, 21);
+  text-shadow: 2px 2px 5px rgb(187, 22, 22);
+  font-weight: bold;
+  margin: 50px;
+  text-align: center;
+  font-size: 40px;
+}
+
+body {
+  background: #ffc772;
+}
+
+a {
+  color: rgb(94, 20, 20);
+  background-color: rgb(213, 187, 254);
+  text-shadow: 2px 2px 5px rgb(187, 22, 22);
+  font-weight: bold;
+  font-size: 40px;
+  border-radius: 10%;
+}
