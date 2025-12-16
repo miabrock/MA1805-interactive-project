@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(162, 139, 219);
+  background(255, 199, 113);
 
   // eyes 
 
