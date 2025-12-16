@@ -7,8 +7,8 @@ function setup() {
 function draw() {
   background(255, 199, 113);
 
-  // eyes 
-
+  //circle
+  
   fill(49, 26, 100);
   circle(450, i, 150, 150);
   circle(950, i, 150, 150);
