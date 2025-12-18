@@ -14,7 +14,7 @@ function draw() {
   circle(950, i, 150, 150);
 
 
-  //mouth 
+  //rectangle 
 
   fill(255, 25, 0, 40);
   rect(i, 500, i, 60);

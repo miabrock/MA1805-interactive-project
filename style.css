@@ -7,17 +7,41 @@ body {
   font-weight: bold;
   margin: 50px;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 body {
   background: #ffc772;
 }
 
-a {
-  color: rgb(94, 20, 20);
+head {
+  font-family: 'Cinzel Decorative', cursive, Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(85, 21, 21);
   text-shadow: 2px 2px 5px rgb(187, 22, 22);
   font-weight: bold;
-  font-size: 40px;
+  margin: 50px;
+  text-align: center;
+  font-size: 60px;
   border-radius: 10%;
+}
+
+#Image {
+  display: block;
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #ff6817;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #ffe375;
+  cursor: pointer;
 }
